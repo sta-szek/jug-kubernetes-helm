@@ -1,0 +1,7 @@
+first-chart-env/:
+total 8
+drwxrwxr-x 2 pojo pojo 4096 mar 27 18:09 .
+drwxrwxr-x 9 pojo pojo 4096 mar 27 18:08 ..
+-rw-rw-r-- 1 pojo pojo    0 mar 27 18:08 dev.yaml
+-rw-rw-r-- 1 pojo pojo    0 mar 27 18:09 prod.yaml
+-rw-rw-r-- 1 pojo pojo    0 mar 27 18:09 test.yaml

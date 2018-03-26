@@ -1,0 +1,24 @@
+first-chart/:
+total 28K
+drwxr-xr-x 4 pojo pojo 4,0K mar 26 21:34 ./
+drwxrwxr-x 7 pojo pojo 4,0K mar 26 21:34 ../
+drwxr-xr-x 2 pojo pojo 4,0K mar 26 21:34 charts/
+-rw-r--r-- 1 pojo pojo  107 mar 26 21:34 Chart.yaml
+-rw-r--r-- 1 pojo pojo  333 mar 26 21:34 .helmignore
+drwxr-xr-x 2 pojo pojo 4,0K mar 26 21:34 templates/
+-rw-r--r-- 1 pojo pojo 1,1K mar 26 21:34 values.yaml
+
+first-chart/charts:
+total 8,0K
+drwxr-xr-x 2 pojo pojo 4,0K mar 26 21:34 ./
+drwxr-xr-x 4 pojo pojo 4,0K mar 26 21:34 ../
+
+first-chart/templates:
+total 28K
+drwxr-xr-x 2 pojo pojo 4,0K mar 26 21:34 ./
+drwxr-xr-x 4 pojo pojo 4,0K mar 26 21:34 ../
+-rw-r--r-- 1 pojo pojo 1,4K mar 26 21:34 deployment.yaml
+-rw-r--r-- 1 pojo pojo 1,1K mar 26 21:34 _helpers.tpl
+-rw-r--r-- 1 pojo pojo  985 mar 26 21:34 ingress.yaml
+-rw-r--r-- 1 pojo pojo 1,4K mar 26 21:34 NOTES.txt
+-rw-r--r-- 1 pojo pojo  499 mar 26 21:34 service.yaml
